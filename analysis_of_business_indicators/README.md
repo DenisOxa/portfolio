@@ -11,8 +11,10 @@ Target - sort out the reasons and help the company to become a plus
 
 There are three datasets available. Data about users attracted from May 1 to October 27, 2019
 
-*visits_info_short.csv* stores a server log with information about site visits,
+*visits_info_short.csv* - stores a server log with information about site visits
+
 *orders_info_short.csv* — contains order information
+
 *costs_info_short.csv* — advertising spending information
 
 Structure of *visits_info_short.csv*:
